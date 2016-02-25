@@ -4,6 +4,10 @@ This repository serves to organize the collaboration between 18F and SEC.  It wi
 
 
 ## Deliverables
+* AutoAPI
+
+
+In Progress: 
 
 * [Primer for General Counsel on APIs]()
 * [Primer for General Counsel on Open Source]()

@@ -4,7 +4,7 @@ This repository serves to organize the collaboration between 18F and SEC.  It wi
 
 
 ## Deliverables
-* AutoAPI
+* [AutoAPI](https://github.com/18F/SEC.gov-developer/issues/47#issuecomment-194880431)
 
 
 In Progress: 
@@ -13,10 +13,7 @@ In Progress:
 * [Primer for General Counsel on Open Source]()
 * [Primer for CISO on APIs]()
 * [Primer for CISO on Open Source]()
-* []()
 
-
-* 
 
 
 

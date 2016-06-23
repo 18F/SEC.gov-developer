@@ -5,7 +5,7 @@ This repository serves to organize the collaboration between 18F and SEC.  It wi
 
 ## Deliverables
 * [AutoAPI](https://github.com/18F/SEC.gov-developer/issues/47#issuecomment-194880431)
-  * [Installation Instructions](https://github.com/18F/autoapi/blob/memoize/instructions.md)
+  * [Installation Instructions](https://github.com/18F/autoapi/blob/master/instructions.md)
 
 
 In Progress: 

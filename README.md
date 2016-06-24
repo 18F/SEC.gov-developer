@@ -6,7 +6,8 @@ This repository serves to organize the collaboration between 18F and SEC.  It wi
 ## Deliverables
 * [AutoAPI](https://github.com/18F/SEC.gov-developer/issues/47#issuecomment-194880431)
   * [Installation Instructions](https://github.com/18F/autoapi/blob/master/instructions.md)
-
+* [api.data.gov access](https://api.data.gov)
+  * [Agency Manual](https://github.com/18F/api.data.gov/wiki/User-Manual:-Agencies)
 
 In Progress: 
 

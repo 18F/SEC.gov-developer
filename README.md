@@ -9,14 +9,5 @@ This repository serves to organize the collaboration between 18F and SEC.  It wi
 * [api.data.gov access](https://api.data.gov)
   * [Agency Manual](https://github.com/18F/api.data.gov/wiki/User-Manual:-Agencies)
 
-In Progress: 
-
-* [Primer for General Counsel on APIs]()
-* [Primer for General Counsel on Open Source]()
-* [Primer for CISO on APIs]()
-* [Primer for CISO on Open Source]()
-
-
-
 
 

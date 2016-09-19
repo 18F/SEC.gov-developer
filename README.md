@@ -8,6 +8,5 @@ This repository serves to organize the collaboration between 18F and SEC.  It wi
   * [Installation Instructions](https://github.com/18F/autoapi/blob/master/instructions.md)
 * [api.data.gov access](https://api.data.gov)
   * [Agency Manual](https://github.com/18F/api.data.gov/wiki/User-Manual:-Agencies)
-
-
-
+* [MVP Developer Hub Proposal](https://pages.18f.gov/API-All-the-X/mvp-developer-hub/)
+* [Guide to Setting Up GitHub at Your Agency](https://pages.18f.gov/open-source-program/setting-up-github/) 
